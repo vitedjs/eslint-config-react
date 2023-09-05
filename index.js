@@ -13,6 +13,6 @@ module.exports = {
     project: "./tsconfig.json",
     createDefaultProgram: true,
   },
-  plugins: ["@typescript-eslint", "react", "prettier"],
+  plugins: ["@typescript-eslint", "jest", "react", "react-hooks", "prettier"],
   ignorePatterns: ["build", "coverage", "dist", "lib", "node_modules"],
 };
