@@ -1,0 +1,27 @@
+{
+  "name": "@vited/eslint-config-react",
+  "version": "0.0.1",
+  "description": "Shareable ESLint configuration for Vited React projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitedjs/eslint-config-react.git"
+  },
+  "keywords": [
+    "vited",
+    "eslint-config",
+    "react",
+    "component",
+    "hooks"
+  ],
+  "author": {
+    "name": "Guo Yunhe",
+    "email": "i@guoyunhe.me",
+    "url": "https://guoyunhe.me/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitedjs/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/vitedjs/eslint-config-react#readme",
+  "funding": "https://github.com/sponsors/guoyunhe"
+}
